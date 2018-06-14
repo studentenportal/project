@@ -11,4 +11,4 @@ This file helps new maintainers to get started 🎉
   - IMAP: `imap.mail.hostpoint.ch` SSL
   - SMTP: `asmtp.mail.hostpoint.ch` SSL
 - [ ] studentenportal.ch backend administrator access
-  - TODO: How to add django admins
+  - [Got to the user management](https://studentenportal.ch/admin/front/user/), choose the users and set the Admin and Staff (in German: "Redakteur") flags.
